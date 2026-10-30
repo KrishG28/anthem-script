@@ -4,7 +4,7 @@
 
 No extension. No dependencies. No install. Just paste it into your browser's developer console and run it.
 
-🎥 **Watch the 2-Minute Walkthrough:** [YouTube Video Link]
+🎥 **Watch the 2-Minute Walkthrough:** [\[YouTube Video Link\]](https://youtu.be/yfLAHRN5zQo)
 
 ---
 
